@@ -1,6 +1,4 @@
-// eslint-disable-next-line import/extensions
 import Book from './modules/book.js';
-// eslint-disable-next-line import/extensions
 import { DateTime } from './modules/luxon.js';
 
 const displayDate = () => {

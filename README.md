@@ -132,7 +132,9 @@ Clone this repository to your desired folder:  cd my-folder  git clone git@githu
 
 ### Install
 
-Install this project with:https:https://github.com/bronnie313/books.git
+Install this project with: 
+cd books
+npm install
 
 <!--
 Example command:

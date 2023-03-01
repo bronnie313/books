@@ -128,11 +128,13 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:https:git clone //github.com/bronnie313/books.git
+Clone this repository to your desired folder:  cd my-folder  git clone git@github.com/bronnie313/books.git
 
 ### Install
 
-Install this project with:https:https://github.com/bronnie313/books.git
+Install this project with: 
+cd books
+npm install
 
 <!--
 Example command:
@@ -235,4 +237,4 @@ I would like to thank every one of you for the constant hard work and dedication
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/bronnie313/books/blob/main/LICENSE) licensed.

@@ -104,7 +104,7 @@ A project was built Using
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [See WEB here](https://github.com/bronnie313/books.git)
+- [See WEB here](https://bronnie313.github.io/books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,16 +128,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:https://github.com/bronnie313/books.git
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone https://github.com/bronnie313/books.git
-```
---->
+Clone this repository to your desired folder:https:git clone //github.com/bronnie313/books.git
 
 ### Install
 
@@ -166,7 +157,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:https://github.com/bronnie313/books.git
+To run tests, run the following command: https://bronnie313.github.io/books/
 
 <!--
 Example command:

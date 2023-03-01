@@ -128,7 +128,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:  cd my-folder  git clone git@github.com:bronnie313/books.git
+Clone this repository to your desired folder:  cd my-folder  git clone git@github.com/bronnie313/books.git
 
 ### Install
 

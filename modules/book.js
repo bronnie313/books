@@ -37,9 +37,8 @@ class Book {
   static removeBook(event) {
     event.preventDefault();
     if (
-    // eslint-disable-next-line operator-linebreak
-      event.target.tagName === 'BUTTON' &&
-        event.target.dataset.action === 'remove'
+      event.target.tagName === 'BUTTON'
+        && event.target.dataset.action === 'remove'
     ) {
       const button = event.target;
       const removeBook = JSON.parse(decodeURIComponent(button.dataset.book));

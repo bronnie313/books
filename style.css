@@ -19,6 +19,8 @@ body {
   height: 50px;
 }
 
-#date {
-  text-align: end;
+#time {
+  display: flex;
+  justify-content: flex-end;
+  outline: 1px solid red;
 }
